@@ -1,6 +1,6 @@
 # Car Parking Application 
 
-This is my assigment for unit Object Oriented Programming. The app is responsible for maintaining a list of available parking slots. 
+This is my works for unit Object Oriented Programming. The app is responsible for maintaining a list of available parking slots. 
 
 # Requirements
 - Parking slots have two types: visitors and staff members
